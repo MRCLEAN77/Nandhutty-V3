@@ -6,10 +6,10 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
   before: `
-  〔 ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3 〕
-➪Hai, %name!
+  〔 TØXÎC-HÄRÎSH 〕
+➪Hai, %TØXÎC-HÄRÎSH!
 ➪Uptime: *%uptime (%muptime)*
-➪Developer:ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
+➪Developer:ÎT'S MÉ TØXÎÇ-HÃRÍSH
 %readmore`.trimStart(),
   header: '*[ %category ]*',
   body: '✰ %cmd %islimit %isPremium',
